@@ -88,3 +88,4 @@ void checkTemperatureWarning(float temperature) {
         printf("WARNING: Temperature below freezing point (0°C)!\n");
     }
 }
+
