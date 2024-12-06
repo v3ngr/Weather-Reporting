@@ -89,8 +89,7 @@ return (celsius * 9/5) + 32;
 
 #### Challenges:
 - Sanitizing the input of the temperature was effectively needed to keep the code running
-smoothly without crashing
-- Making the user lose their progress when inputting the data when they make a mistake.
+smoothly without crashing which makes the user lose their progress when inputting the data when a mistake is made.
 
 #### Solutions:
 - Using the loop provided above and attaching to the input effectively hanbdles errors with ease and allows the data to be handled efficiently even if it takes a few Ms longer for the program to run it.
